@@ -1,6 +1,6 @@
 /* Peter Abdulmasih
 *
-* Mr. Drass
+* Programming Essentials
 * 
 * October 11, 2018 
 *
