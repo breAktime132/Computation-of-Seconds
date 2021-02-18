@@ -1,6 +1,4 @@
-/* Peter 
-*
-* Programming Essentials
+/*
 * 
 * October 11, 2018 
 *
